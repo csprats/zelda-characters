@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "zelda-characters",
+=======
+  "name": "zelda-characters2",
+>>>>>>> 997e4f3 (Initial commit)
   "private": true,
   "version": "0.0.0",
   "type": "module",
