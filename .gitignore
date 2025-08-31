@@ -7,42 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-<<<<<<< HEAD
-# Diagnostic reports (https://nodejs.org/api/report.html)
-.report/
-
-# Dependency directories
-node_modules/
-/pnpm-lock.yaml
-
-# Caches
-.next/
-.nuxt/
-.parcel-cache/
-.vuepress/.cache/
-.vuepress/.temp/
-.vscode/
-
-# Build outputs
-/dist/
-/out/
-/build/
-
-# IDE files
-.idea/
-.DS_Store
-
-# Vite specific
-.vite/
-/coverage/
-
-# Misc
-.env
-.env.*
-!.env.local
-!.env.development
-!.env.production
-=======
 node_modules
 dist
 dist-ssr
@@ -58,4 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
->>>>>>> 997e4f3 (Initial commit)
