@@ -21,7 +21,7 @@ export const App = () => {
     return (
       <>
         <header>
-          <h1>Dragon Ball Characters</h1>
+          <h1>Zelda BOTW Characters</h1>
           <img src="https://gadhagod.github.io/Hyrule-Compendium-API/assets/dark_logo.png" alt="Dragon Ball Api" width='250'/>
         </header>
         <div>Chargin data...</div>
